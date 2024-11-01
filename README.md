@@ -1,5 +1,7 @@
 Wikipedia Login Page Testing with JMeter
-Project Overview
+
+Project Overview:
+
 This project focuses on load and performance testing for the Wikipedia login page using JMeter. The goal is to design and execute a series of tests simulating multiple users, validate various response criteria, and log results for analysis. Additionally, a bonus task explores using CSV data to automate login with multiple sets of credentials.
 
 Website for Testing
